@@ -1,0 +1,58 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.titulo{
+    text-align: center;
+   
+    
+}
+
+.body-inicio{
+    background-color: wheat ;
+}
+
+.desc{
+    text-align: center;
+    margin-top: 300px;
+}
+
+.footer-menu{
+    margin-top: 440px;
+}
+
+.body-prods{
+    background-color: white;
+}
+
+
+
+.buzo-prod{
+    max-width: 450px;
+    max-height: 550px;
+    margin-right: 900px;
+}
+
+.campera-prod{
+    max-width: 450px;
+    max-height: 550px;
+}
+
+.precio-buzo{
+    text-align: left;
+    margin-left: 60px;
+   
+    
+}
+
+.precio-campera{
+    text-align: right;
+    margin-right: 110px; 
+}
+
+
+.footer-prod{
+    margin-top: 260px;
+}
